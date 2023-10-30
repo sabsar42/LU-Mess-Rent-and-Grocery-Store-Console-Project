@@ -1,0 +1,4 @@
+01		Apple		200
+02		Watermelon		70
+03		Orange		160
+04		Pear		300

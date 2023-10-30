@@ -1,0 +1,4 @@
+v1		Artichoke		50
+v2		Arugula		30
+Broccoli		Broccoli		500
+v4		Chayote		530

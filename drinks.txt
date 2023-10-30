@@ -1,0 +1,6 @@
+1		Wine		60
+2		Coffee		20
+3		Tea		10
+4		Water		15
+5		Milk		30
+6		Juice		50

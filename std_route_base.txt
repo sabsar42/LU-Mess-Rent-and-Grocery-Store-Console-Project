@@ -1,0 +1,11 @@
+Route_1:
+Tilagor,Baluchar,TB_gate,Eidgah,Electric_supply,Amborkhana,Dorshondewry,Subidbazar,Londony_Road,
+Pathantula.
+Route_2:
+Tilagor,Shibgong,Naiorpul,Osmani_park,Sumar_tower,Jitupiar_pt,Kazirbazar_bridge,Lamabazar,Rikabibazar,
+Radio_Office,Modina_market,Akhalia_Mosque.
+Route_3:
+Lakkatura,Chowkidekhi_pt,Khashdobir,Mazumdhar_fulkoli,Amborkhana,Dhorshondewry,Surmagate,SUST_gate.
+Route_4;
+Tilaghor,Shibgong,Naiorphul,Subhanighat_pt,Rose_view_pt,humayun_Rashid_Chattar,Humayun_Rashid_Chattar,
+Chandirphul,Bypass,Rail_Crossing,Ragib_Nagar.

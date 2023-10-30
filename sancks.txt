@@ -1,0 +1,4 @@
+1m		Kachori		110
+m2		Petha		50
+m3		Dhokla		160
+Vindaloo		Vindaloo		200
